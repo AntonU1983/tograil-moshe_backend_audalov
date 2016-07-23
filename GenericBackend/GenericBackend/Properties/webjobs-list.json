@@ -1,0 +1,8 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjobs-list.json",
+  "WebJobs": [
+    {
+      "filePath": "../GenericBackend.ImagePreviewWebJob/GenericBackend.ImagePreviewWebJob.csproj"
+    }
+  ]
+}
